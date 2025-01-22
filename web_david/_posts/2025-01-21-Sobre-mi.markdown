@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Sobre mi"
+date:   2025-01-21 17:30:50 +0100
+categories: jekyll update
+---
+Hola 
+Soy David Alvarez, Analista de Sistemas con más de 20 años de experiencia en proyectos de video. En MovistarTV desde el principio del proyecto en el año 2000
+
+
